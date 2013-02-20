@@ -88,7 +88,7 @@
  */
 class WkHtmlToPdf
 {
-    protected $bin = '/usr/bin/wkhtmltopdf';
+    protected $bin = '/opt/wkhtmltopdf/bin/wkhtmltopdf';
 
     protected $enableEscaping = true;
 
